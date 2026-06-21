@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8661882292",
+    "project_id": "task-manager-anika",
+    "storage_bucket": "task-manager-anika.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8661882292:android:5ac574e224140738854ee1",
+        "android_client_info": {
+          "package_name": "com.example.internship_task3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZqVGMcfOegxOunmmB2-NmD8F6qAWq5h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
